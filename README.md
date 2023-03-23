@@ -14,8 +14,8 @@ App criado para quem quer facilidade e manter suas contas controladas, não nece
 <br>
 
 <p align="center">
-  <img alt="App de Finanças" src="./frontend/img/finance2.png" width="100%">
-  <img alt="App de Finanças" src="./frontend/img/finance.png" width="100%">
+  <img alt="App de Finanças" src="./frontend/img/finance2.png" width="50%">
+  <img alt="App de Finanças" src="./frontend/img/finance.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
